@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force -Path \"e:\\\\go\\\\go-tiny-claw\\\\.vscode\")"
+    ],
+    "additionalDirectories": [
+      "e:\\go\\go-tiny-claw"
+    ]
+  }
+}
