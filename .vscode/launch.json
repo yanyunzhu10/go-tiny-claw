@@ -6,9 +6,11 @@
             "type": "go",
             "request": "launch",
             "mode": "debug",
-            "program": "${workspaceFolder}/cmd/main.go",
+            "program": "${workspaceFolder}/cmd/claw/main.go",
             "cwd": "${workspaceFolder}",
-            "env": {},
+            "env": {
+                "ZHIPU_API_KEY": "6258459dd67f4ec88b9d4af99fbb335c.0p6bY05n115MfmYZ"
+            },
             "args": []
         },
         {
