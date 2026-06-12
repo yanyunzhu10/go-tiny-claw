@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(New-Item -ItemType Directory -Force -Path \"e:\\\\go\\\\go-tiny-claw\\\\.vscode\")"
+      "Bash(New-Item -ItemType Directory -Force -Path \"e:\\\\go\\\\go-tiny-claw\\\\.vscode\")",
+      "Bash(where bash *)",
+      "Bash(where git *)"
     ],
     "additionalDirectories": [
       "e:\\go\\go-tiny-claw"
