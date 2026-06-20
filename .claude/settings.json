@@ -8,5 +8,8 @@
     "additionalDirectories": [
       "e:\\go\\go-tiny-claw"
     ]
+  },
+  "env": {
+    "ZHIPU_API_KEY": "5369fc49c9ce4f9199681630ca6751a7.Otx0IVRfAjta8zQ2"
   }
 }
